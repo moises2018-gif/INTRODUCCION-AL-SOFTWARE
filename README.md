@@ -27,10 +27,9 @@
 </style>
 	 <div style="color:white;" class="col-sm-12"><h2>INTRODCCION AL SOFTWARE</h2></div>
 	<center>
-	
 	<image src="image.png" style=" width:300px; height:300px;">
-	
 	</center>
+	
 	<audio src="audio.mp3" preload="none" controls></audio>
 	<title>Personal-OCHOAX</title>
 	<script src="https://kit.fontawesome.com/12299708d4.js" crossorigin="anonymous"></script>
@@ -40,7 +39,6 @@
 		<div class="row">
 			<div class="col-sm-12 fondo"><img class="img" src="img/img1.jpg"></div>
 		</div>
-
 		<div class="row">
 			<div class="col-sm-12"><h2>Definición de IS</h2></div>
 		</div>
@@ -50,7 +48,6 @@
 				<p>Fritz Bauer, 1969: Más que una disciplina o una parte del conocimiento, la Ingeniería es un verbo, una palabra de acción, un modo de enfocar el problema. <br>
 				<p>La Ingeniería del Software es el establecimiento y uso de principios robustos de la ingeniería a fin de obtener económicamente software que sea fiable y que funcione eficientemente sobre maquinas reales. :<br>
 					</div>
-					
 				<div class="row">
 			<div class="col-sm-12"><h2>Definición de IS</h2></div>
 		</div>
@@ -67,13 +64,8 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<p>Bohem, 1976: Ingeniería del Software es la aplicación practica del conocimiento científico en el diseño y construcción de programas de computadora y la documentación necesaria requerida para desarrollar, operar (funcionar) y mantenerlos. <br>
-					Mills, 1980: La Ingeniería de Software tiene como uno de sus principales objetivos la producción de programas que cumplan las especificaciones, y que se demuestren correctos, producidos en el plazo y costo adecuado<br>
-					
+					Mills, 1980: La Ingeniería de Software tiene como uno de sus principales objetivos la producción de programas que cumplan las especificaciones, y que se demuestren correctos, producidos en el plazo y costo adecuado<br>	
 				</div>	
-					
-					
-					
-					
 					<div class="row">
 			<div class="col-sm-12"><h2>Objetivos de la IS</h2></div>
 		</div>
@@ -101,7 +93,6 @@
 						Demandas cada vez más desfasadas frente a las ofertas<br>
 						Baja calidad y fiabilidad del producto<br>
 						Dependencia de los realizadores<br>
-
 					</div>
 
 					
