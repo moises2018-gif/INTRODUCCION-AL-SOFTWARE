@@ -28,7 +28,7 @@
 	 <div style="color:white;" class="col-sm-12"><h2>INTRODCCION AL SOFTWARE</h2></div>
 	<center>
 	
-	<image src="image.png" style=" width:300px; height:300px;"background="fondo.gif">
+	<image src="image.png" style=" width:300px; height:300px;">
 	
 	</center>
 	<audio src="audio.mp3" preload="none" controls></audio>
